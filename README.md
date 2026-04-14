@@ -1,9 +1,9 @@
-## About Me
+<!-- ## About Me -->
 
-<h1 align="center">Ridge Poll</h1>
+<h1 align="center">About Me</h1>
 
 <p align="center">
-Working at the intersection of signal processing, neuroscience, and physics. From analyzing signals in radio astronomy and high-energy physics to decoding complex neural dynamics—I’m drawn to how physical systems encode meaningful structure and how those principles can help understand and address neurological conditions.
+Working at the intersection of signal processing, neuroscience, and physics. Focused on how physical systems encode structure and how those representations can be leveraged to understand and address neurological conditions.
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ Modular Python toolkit for filtering, epoching, PSD analysis, and CSP on EEG dat
 ---
 
 **RFSoC Digital Downconverter (CASPER)**
+
 A runtime-tunable digital downconverter in the CASPER toolflow for RFSoC platforms. Features fine NCO mixing, configurable FIR filtering, and scalable decimation. Enables efficient narrowband extraction from multi-GHz inputs while reducing data rates for real-time FPGA processing and networking. Applicable to radio astronomy, radar, and spectral monitoring.
 <table>
   <tr>
@@ -49,6 +50,7 @@ A runtime-tunable digital downconverter in the CASPER toolflow for RFSoC platfor
 ---
 
 **One-Bit Optical Detector (LANL)**
+
 Designed and prototyped a high-speed one-bit optical detection system for time-resolved measurement of explosive blasts and other intense optical events. Combined RF-to-optical modulation (1310 nm DFB lasers), 10 GbE optical-to-binary conversion, custom PCB design, and FPGA firmware for synchronized real-time acquisition. Performed experimental characterization of pulse rise-time and wavelength effects.
 <table>
   <tr>
@@ -75,5 +77,5 @@ First author · NRSM Conference (2026)
 
 <p align="center"><i>
 “Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above me and the moral law within me.”  
--Immanuel Kant
+ - Immanuel Kant
 </i></p>
