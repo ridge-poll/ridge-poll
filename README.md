@@ -24,7 +24,7 @@ Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. 
 
 [→ View Repository](https://github.com/ridge-poll/sd_analysis_toolbox)
 <br>
-<img src="images/traces_screenshot.png" alt="SD viewer GUI" width="80%">
+<img src="images/analysis_gui_screenshot.png" alt="SD viewer GUI" width="80%">
 
 ---
 
