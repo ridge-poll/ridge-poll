@@ -32,12 +32,12 @@ Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. 
 Toolkit for visualization and exploratory analysis of high-density multi-electrode array (MEA) recordings. Developed to investigate spatiotemporal neural activity patterns, seizure propagation, and ictal dynamics across large electrode arrays. Includes an interactive Python GUI for rapid trace exploration and a MATLAB-based 3D surface reconstruction tool for visualizing activity across the entire array.
 
 [→ View Repository](https://github.com/ridge-poll/mea-analysis)
-<!-- <br> -->
-<!-- <img src="images/analysis_gui_screenshot.png" alt="SD viewer GUI" width="80%"> -->
-
-The trace viewer provides spatial electrode selection, synchronized voltage visualization, and interactive navigation of large recordings, enabling rapid exploration of neural activity across hundreds of channels.
-
-A complementary MATLAB visualization reconstructs array-wide activity as a continuous spatial surface, making it easier to observe seizure propagation, traveling waves, and other large-scale spatiotemporal dynamics.
+<table>
+  <tr>
+    <td><img src="images/mea_demo_zoomed_in.png" width="380"></td>
+    <td><img src="images/surface_plot.png" width="350"></td>
+  </tr>
+</table>
 
 ---
 
