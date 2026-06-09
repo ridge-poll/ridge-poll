@@ -1,5 +1,3 @@
-<!-- ## About Me -->
-
 <h1 align="center">About Me</h1>
 
 <p align="center">
@@ -19,7 +17,8 @@ Developing multimodal neural data analysis tools, expanding real‑time DSP pipe
 
 ## Featured Projects
 
-**Spreading Depolarizations Analysis Toolbox**  
+**Spreading Depolarizations Analysis Toolbox**
+
 Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. Developed for a research lab at BYU studying seizure-related spreading depolarizations, where meaningful structure emerges only when electrophysiology and imaging are aligned in time. Features lazy loading, caching, shared timeline, and integrated spectrogram.  
 
 [→ View Repository](https://github.com/ridge-poll/sd_analysis_toolbox)
@@ -29,7 +28,8 @@ Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. 
 ---
 
 **MEA Analysis Toolkit**
-Toolkit for visualization and exploratory analysis of high-density multi-electrode array (MEA) recordings. Developed to investigate spatiotemporal neural activity patterns, seizure propagation, and ictal dynamics across large electrode arrays. Includes an interactive Python GUI for rapid trace exploration and a MATLAB-based 3D surface reconstruction tool for visualizing activity across the entire array.
+
+Toolkit for visualization and exploratory analysis of high-density multi-electrode array (MEA) recordings. Includes an interactive trace viewer and 3D spatial activity visualization for investigating spatiotemporal seizure dynamics and large-scale neural activity.
 
 [→ View Repository](https://github.com/ridge-poll/mea-analysis)
 <table>
@@ -41,7 +41,8 @@ Toolkit for visualization and exploratory analysis of high-density multi-electro
 
 ---
 
-**EEG Signal Processing Pipeline**  
+**EEG Signal Processing Pipeline**
+
 Modular Python toolkit for filtering, epoching, PSD analysis, and CSP on EEG data (tested on PhysioNet motor imagery). Designed as a modular research tool for exploring neural dynamics and building reproducible analysis workflows.
 
 [→ View Repository](https://github.com/ridge-poll/eeg-signal-processing-pipeline)
