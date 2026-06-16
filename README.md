@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-Working at the intersection of signal processing, neuroscience, and physics. Focused on how physical systems encode structure and how those representations can be leveraged to understand and address neurological conditions.
+Working at the intersection of signal processing, neuroscience, and physics. Focused on how physical systems encode information and how those representations can be leveraged to understand and address neurological conditions.
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@ Working at the intersection of signal processing, neuroscience, and physics. Foc
 
 
 ## Currently...
-Developing multimodal neural data analysis tools, expanding real‑time DSP pipelines, and exploring mathematical methods for extracting structure from biological and physical systems.
+Developing multimodal neural data analysis tools, expanding real‑time DSP pipelines, and exploring mathematical methods for extracting information from biological and physical systems.
 
 
 ## Featured Projects
 
 **Spreading Depolarizations Analysis Toolbox**
 
-Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. Developed for a research lab at BYU studying seizure-related spreading depolarizations, where meaningful structure emerges only when electrophysiology and imaging are aligned in time. Features lazy loading, caching, shared timeline, and integrated spectrogram.  
+Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. Developed for a research lab at BYU studying seizure-related spreading depolarizations, where meaningful patterns emerge only when electrophysiology and imaging are aligned in time. Features lazy loading, caching, shared timeline, and integrated spectrogram.
 
 [→ View Repository](https://github.com/ridge-poll/sd_analysis_toolbox)
 <br>
@@ -90,6 +90,6 @@ First author · NRSM Conference (2026)
 ---
 
 <p align="center"><i>
-“Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above me and the moral law within me.”  
+“The understanding does not derive its laws from, but prescribes them to, nature.”<br>
  - Immanuel Kant
 </i></p>
