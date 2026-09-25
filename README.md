@@ -1,9 +1,7 @@
-<!-- ## About Me -->
-
 <h1 align="center">About Me</h1>
 
 <p align="center">
-Working at the intersection of signal processing, neuroscience, and physics. Focused on how physical systems encode structure and how those representations can be leveraged to understand and address neurological conditions.
+Working at the intersection of signal processing, neuroscience, and physics. Focused on how physical systems encode information and how those representations can be leveraged to understand and address neurological conditions.
 </p>
 
 <p align="center">
@@ -14,13 +12,14 @@ Working at the intersection of signal processing, neuroscience, and physics. Foc
 
 
 ## Currently...
-Developing multimodal neural data analysis tools, expanding real‑time DSP pipelines, and exploring mathematical methods for extracting structure from biological and physical systems.
+Developing multimodal neural data analysis tools, expanding real‑time DSP pipelines, and exploring mathematical methods for extracting information from biological and physical systems.
 
 
 ## Featured Projects
 
-**Spreading Depolarizations Analysis Toolbox**  
-Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. Developed for a research lab at BYU studying seizure-related spreading depolarizations, where meaningful structure emerges only when electrophysiology and imaging are aligned in time. Features lazy loading, caching, shared timeline, and integrated spectrogram.  
+**Spreading Depolarizations Analysis Toolbox**
+
+Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. Developed for a research lab at BYU studying seizure-related spreading depolarizations, where meaningful patterns emerge only when electrophysiology and imaging are aligned in time. Features lazy loading, caching, shared timeline, and integrated spectrogram.
 
 [→ View Repository](https://github.com/ridge-poll/sd_analysis_toolbox)
 <br>
@@ -29,7 +28,8 @@ Synchronized viewer for TIFF image stacks and WaveSurfer HDF5 ephys recordings. 
 ---
 
 **MEA Analysis Toolkit**
-Toolkit for visualization and exploratory analysis of high-density multi-electrode array (MEA) recordings. Developed to investigate spatiotemporal neural activity patterns, seizure propagation, and ictal dynamics across large electrode arrays. Includes an interactive Python GUI for rapid trace exploration and a MATLAB-based 3D surface reconstruction tool for visualizing activity across the entire array.
+
+Toolkit for visualization and exploratory analysis of high-density multi-electrode array (MEA) recordings. Includes an interactive trace viewer and 3D spatial activity visualization for investigating spatiotemporal seizure dynamics and large-scale neural activity.
 
 [→ View Repository](https://github.com/ridge-poll/mea-analysis)
 <table>
@@ -41,7 +41,8 @@ Toolkit for visualization and exploratory analysis of high-density multi-electro
 
 ---
 
-**EEG Signal Processing Pipeline**  
+**EEG Signal Processing Pipeline**
+
 Modular Python toolkit for filtering, epoching, PSD analysis, and CSP on EEG data (tested on PhysioNet motor imagery). Designed as a modular research tool for exploring neural dynamics and building reproducible analysis workflows.
 
 [→ View Repository](https://github.com/ridge-poll/eeg-signal-processing-pipeline)
@@ -72,6 +73,22 @@ Designed and prototyped a high-speed one-bit optical detection system for time-r
   </tr>
 </table>
 
+## Personal Projects
+
+**Music Hub**
+
+A local-first Flutter music workspace for iOS and Android. Combines song sheets, guitar tablature, recordings, a metronome, and a real-time guitar tuner with FFT visualization and pitch tracking. Built around local SQLite storage with audio recording, import/export, and full-library backup and restore.
+
+[→ View Repository](https://github.com/ridge-poll/music-hub)
+
+---
+
+**Chess Analytics**
+
+A mobile-first chess improvement app built with FastAPI, SQLite, `python-chess`, and Stockfish. Imports and analyzes Chess.com games, stores move-level engine evaluations, and tracks performance across openings, time controls, and game phases. Includes position caching, Multi-PV analysis, opening exploration, and multiple local player profiles.
+
+[→ View Repository](https://github.com/ridge-poll/chess)
+
 ---
 
 ## Publications
@@ -89,6 +106,6 @@ First author · NRSM Conference (2026)
 ---
 
 <p align="center"><i>
-“Two things fill the mind with ever new and increasing admiration and awe: the starry heavens above me and the moral law within me.”  
+“The understanding does not derive its laws from, but prescribes them to, nature.”<br>
  - Immanuel Kant
 </i></p>
