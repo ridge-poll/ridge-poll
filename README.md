@@ -73,6 +73,22 @@ Designed and prototyped a high-speed one-bit optical detection system for time-r
   </tr>
 </table>
 
+## Personal Projects
+
+**Music Hub**
+
+A local-first Flutter music workspace for iOS and Android. Combines song sheets, guitar tablature, recordings, a metronome, and a real-time guitar tuner with FFT visualization and pitch tracking. Built around local SQLite storage with audio recording, import/export, and full-library backup and restore.
+
+[→ View Repository](https://github.com/ridge-poll/music-hub)
+
+---
+
+**Chess Analytics**
+
+A mobile-first chess improvement app built with FastAPI, SQLite, `python-chess`, and Stockfish. Imports and analyzes Chess.com games, stores move-level engine evaluations, and tracks performance across openings, time controls, and game phases. Includes position caching, Multi-PV analysis, opening exploration, and multiple local player profiles.
+
+[→ View Repository](https://github.com/ridge-poll/chess)
+
 ---
 
 ## Publications
