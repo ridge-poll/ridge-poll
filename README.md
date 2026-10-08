@@ -34,8 +34,8 @@ Toolkit for visualization and exploratory analysis of high-density multi-electro
 [→ View Repository](https://github.com/ridge-poll/mea-analysis)
 <table>
   <tr>
-    <td><img src="images/mea_demo_zoomed_in.png" width="380"></td>
-    <td><img src="images/surface_plot.png" width="350"></td>
+    <td><img src="images/mea_demo_zoomed_in.png" width="500"></td>
+    <td><img src="images/heatmap_demo.png" width="400"></td>
   </tr>
 </table>
 
