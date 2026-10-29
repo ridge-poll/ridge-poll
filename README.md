@@ -97,8 +97,6 @@ A Python-based video analysis tool for quantifying acrobatic movements, primaril
 
 [→ View Repository](https://github.com/ridge-poll/movement-tracker)
 
----
-
 <br>
 <table>
   <tr>
