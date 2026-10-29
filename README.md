@@ -91,6 +91,25 @@ A mobile-first chess improvement app built with FastAPI, SQLite, `python-chess`,
 
 ---
 
+**Movement Tracker**
+
+A Python-based video analysis tool for quantifying acrobatic movements, primarily designed for training standing double backflips. Uses MediaPipe pose estimation with manual landmark correction to extract body trajectories, angular velocity, jump height, and tuck timing. Features synchronized kinematic plots, event detection, and data export for evaluating technique and comparing attempts.
+
+[→ View Repository](https://github.com/ridge-poll/movement-tracker)
+
+---
+
+<br>
+<table>
+  <tr>
+    <!-- <td><img src="images/chess_performance.png" height="220"></td> -->
+    <td><img src="images/chess_analysis.png" height="220"></td>
+    <td><img src="images/chess_performance.png" height="220"></td>
+    <td><img src="images/dub_plots_ss.png" height="220"></td>
+  </tr>
+</table>
+
+
 ## Publications
 
 Flexible Digital Downconversion in CASPER Framework with RFSoC for Radio Astronomy, Radar, and Wireless Communications  
