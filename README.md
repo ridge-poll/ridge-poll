@@ -103,8 +103,8 @@ A Python-based video analysis tool for quantifying acrobatic movements, primaril
 <table>
   <tr>
     <!-- <td><img src="images/chess_performance.png" height="220"></td> -->
-    <td><img src="images/chess_analysis.png" height="220"></td>
-    <td><img src="images/chess_performance.png" height="220"></td>
+    <td><img src="images/chess_analysis.PNG" height="220"></td>
+    <td><img src="images/chess_performance.PNG" height="220"></td>
     <td><img src="images/dub_plots_ss.png" height="220"></td>
   </tr>
 </table>
